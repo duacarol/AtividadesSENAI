@@ -1,0 +1,15 @@
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\bin\Debug\net8.0\02.exe
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\bin\Debug\net8.0\02.deps.json
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\bin\Debug\net8.0\02.runtimeconfig.json
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\bin\Debug\net8.0\02.dll
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\bin\Debug\net8.0\02.pdb
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.AssemblyInfoInputs.cache
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.AssemblyInfo.cs
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.csproj.CoreCompileInputs.cache
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.sourcelink.json
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.dll
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\refint\02.dll
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.pdb
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\02.genruntimeconfig.cache
+D:\Documentos\Senai\AtividadesSENAI\LogicaProgramacao\02\obj\Debug\net8.0\ref\02.dll
