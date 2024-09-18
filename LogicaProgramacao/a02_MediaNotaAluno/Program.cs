@@ -1,4 +1,4 @@
-﻿Console.ForegroundColor = ConsoleColor.Cyan;
+﻿Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("=".PadLeft(28, '='));
 Console.WriteLine("Calculadora de Média Escolar");
 Console.WriteLine("=".PadLeft(28, '='));
