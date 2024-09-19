@@ -1,7 +1,7 @@
 # CursoTecnicoSENAI
 Atividades desenvolvidas por mim enquanto estudante do SENAI.
 
-## LogicaProgramacao
+## 01 - LogicaProgramacao
 
 ### a01 - NotaAluno
 Solicita ao usuário uma nota e classifica o aluno como aprovado, em recuperação ou reprovado.
